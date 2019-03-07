@@ -1,9 +1,8 @@
-Typer-CE	v1.0.0     		coolcrab
-coolcrab123.wixsite.com/home
+Typer-CE	v1.2.1     		coolcrab
 
 Overview:
 
-Typer CE is an advanced program that will allow you to learn to type quickly on your CE, it is also really fun and can get you something to do when you are bored.
+Typer CE is an advanced program that will allow you to learn to type quickly on your TI-84 CE, it is also really fun and can get you something to do when you are bored.
 
 ----------------------------------------------------------------------------------------------
 Installation:
